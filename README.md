@@ -3,7 +3,7 @@
 My name is Tarik Klezo, I am a new motivated and passionated **Fullstack JS developer** , I'm living near **Paris** in France. 
 
 
-After a professional reconversion at O'Clock I am currently working at Eridanis. You can find me in [Linkedin](https://www.linkedin.com/in/tarik-klezo-0b1757103/) or check my [Website](http://www.tarikklezo.fr/). Today I'm looking for a job.
+After a professional reconversion at O'Clock I am currently working at [Eridanis](https://www.eridanis.com/). You can find me in [Linkedin](https://www.linkedin.com/in/tarik-klezo-0b1757103/) or check my [Website](http://www.tarikklezo.fr/).
 
 ### 🛠️ Technologies
 
