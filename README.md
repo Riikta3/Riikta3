@@ -1,28 +1,68 @@
-## I'm Tarik Klezo - Welcome to my GitHub page ! :wave:
+# 👨‍💻 Tarik Klezo | Fullstack Web Developer  
 
-My name is Tarik Klezo, I am a new motivated and passionated **Fullstack JS developer** , I'm living near **Paris** in France. 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-link.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-link)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Riikta3)
 
+---
 
-After a professional reconversion at O'Clock I am currently working at [Eridanis](https://www.eridanis.com/). You can find me in [Linkedin](https://www.linkedin.com/in/tarik-klezo-0b1757103/) or check my [Website](http://www.tarikklezo.fr/).
+## 🚀 **About Me**  
+Hello! I'm **Tarik Klezo**, a passionate **Fullstack Web Developer** skilled in building **web** and **mobile applications** with cutting-edge technologies.  
 
-### 🛠️ Technologies
+I specialize in crafting solutions that are **efficient**, **scalable**, and **user-friendly**. My development experience spans across **front-end, back-end, and database management**.
 
-#### Front-End
+🔹 I enjoy working in **Agile environments** and collaborating on innovative projects.  
+🔹 **Tech Stack**: Angular | React | Node.js | SwiftUI | MongoDB | PostgreSQL  
+🔹 **Currently open to new opportunities**!  
 
-![Javacript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![React](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
-![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
-![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Typescript](https://camo.githubusercontent.com/9e98eab478e098342c2933b383b774088b092bff05174f33637fa6307253e8ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
+---
 
+## 🛠️ **Skills & Tools**  
 
-### Back-End
+### **Frontend**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-![NodeJs](https://camo.githubusercontent.com/b92932da99ef43681b7b5d6528c6a504043872d1a623829ab02838b91b62985d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465)
-![PostgreSQL](https://camo.githubusercontent.com/488beec40a140a80b134fc4ec2f86d18c10449c17d2ae102b5da873881bf9a0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### ✉️ Contact 
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-[![Porfolio](https://camo.githubusercontent.com/ab72ae5db00243ec4f11facf797aa36886b029012a99146e3ab955cde788b878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3533343066663f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465)](https://www.tarikklezo.fr)
-[![Linkedin](https://camo.githubusercontent.com/7170f87b92e4bd22638d46d8d0353d82cf37270c85d10a6ca19afc83ff409928/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/tarik-klezo-0b1757103/)
-[![Email](https://camo.githubusercontent.com/c0c613e68caed07a856ee8ade55831dfe615a6bba163e9b4ffdabc1b91eea497/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:tarik.klezo@gmail.com)
+### **Other Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+
+---
+
+## 💼 **Professional Experience**
+
+### **Fullstack Web Developer | Eridanis**  
+**July 2020 - Present**  
+- Developed modern applications for the **Ouranos platform**.  
+- Designed user interfaces with **Angular** and **React**, and developed mobile applications with **SwiftUI**.  
+- Collaborated with stakeholders to define technical solutions and streamline workflows.  
+- Improved productivity by implementing Agile methodologies with **GitLab** for ticketing and code management.
+
+### **Fullstack Web Developer | Leihia**  
+**Feb 2020 - July 2020**  
+- Added new features and optimized the **Leihia** platform and its backend.  
+- Collaborated on API microservices and technical architecture.  
+- Developed and deployed UI components with **Vue.js** and **TypeScript**.  
+
+---
+
+## 📫 **Contact Me**  
+- 📧 Email: tarik.klezo@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/tklezo/)  
+
+---
+
+## 🎯 **Let's Build Together!**  
+If you're looking for a dedicated and skilled **Fullstack Developer**, feel free to connect!  
